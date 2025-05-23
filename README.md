@@ -39,14 +39,16 @@ Install dependencies using:
 pip install -r requirements.txt
 requirements.txt content:
 nginx
-Copy
-Edit
+```
+
 pandas
 scikit-learn
 nltk
 joblib
+
 🧪 Dataset Used
 📄 spam.csv
+
 Used for training the model.
 
 Contains 2 columns:
