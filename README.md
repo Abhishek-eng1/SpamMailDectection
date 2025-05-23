@@ -6,6 +6,8 @@ A machine learning-based system that detects and classifies emails as spam or no
 
 ## 📁 Project Structure
 
+``` bash
+
 Spam-Mail-Detection/
 ├── spam.csv # Training dataset
 ├── test_emails.csv # Test email samples for prediction
@@ -15,10 +17,7 @@ Spam-Mail-Detection/
 ├── spam_detector.py # Complete Python code (training + prediction)
 ├── requirements.txt # Required Python packages
 └── README.md # Documentation file
-
-yaml
-Copy
-Edit
+```
 
 ---
 
